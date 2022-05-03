@@ -8,9 +8,7 @@
 
 This repository includes files with plain SQL that can be used to recreate a database:
 
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+- Use [schema_based_on_diagram.sql](./schema_based_on_diagram.sql) to create all tables and foreign needed to replecate the ERD 
 
 ## Database ERD
 ![clinic_diagram](https://user-images.githubusercontent.com/31547587/166554715-22a9218c-8ff2-4d5e-86af-7884950f116c.png)
