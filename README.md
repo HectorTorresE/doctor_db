@@ -8,24 +8,24 @@
 
 This repository includes files with plain SQL that can be used to recreate a database:
 
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+- Use [schema_based_on_diagram.sql](./schema_based_on_diagram.sql) to create all tables and foreign needed to replecate the ERD 
 
+## Database ERD
+![clinic_diagram](https://user-images.githubusercontent.com/31547587/166554715-22a9218c-8ff2-4d5e-86af-7884950f116c.png)
 
 ## Authors
 
-👤 **Author1**
+👤 **Hector Torres**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@HectorTorres](https://github.com/HectorTorresE)
+- Twitter: [@HectorT](https://twitter.com/HectorT00406915)
+- LinkedIn: [@Hectorjte](https://www.linkedin.com/in/hectorjte/)
 
-👤 **Author2**
+👤 **Mengstu Fentaw**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github: [@mengiefen](https://github.com/mengiefen)
+- Twitter: [@MengistuFentaw](https://twitter.com/MengistuFentaw)
+- Linkedin: [@mengefen](https://www.linkedin.com/in/mengefen/)
 
 ## 🤝 Contributing
 
