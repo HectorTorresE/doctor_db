@@ -13,6 +13,7 @@ CREATE TABLE medical_histories (
   id INT GENERATED ALWAYS AS IDENTITY,
   admitted_at TIMESTAMP,
   patient_id INT,
+  status VARCHAR(20),
   PRIMARY KEY (id),
   CONSTRAINT FK_patient_id
   FOREIGN KEY (patient_id)
